@@ -1,6 +1,6 @@
 # RSI-Project
 
-am:
+Team:
 <table>
     <tbody>
         <tr>
